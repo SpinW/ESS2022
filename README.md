@@ -1,15 +1,23 @@
-# BasicPresentation
 
-This is the first attempt at making a presentation using reveal.js and a template base.
+# ESS 2022
 
-## Installation
+This is the presentation given at the NNSP-SwedNess Neutron School 2022, held at the ESS - Lund.
 
-`master.html` and `slides.html` should be copied from the `presentation_base` directory into the root directory and  `master.html` renamed to `index.html`.
+### Part 1
 
-## Using
+Introduction to Linear spin-wave theory, SpinW and basic examples.
 
-Slides are in `slides.html` and can be modified accordingly (duh!). 
+### Part 2
 
-## For publishing
+In depth Kagome lattice example. 
 
-This can be published by creating a gh-pages branch and will be served at `www.spinw.org/BasicPresentation`. An accompanying post should be created in the `spinw.github.io` repo under `pages/_presentations` so it is automaticall published from the main site.
+## Tutors
+
+- Simon Ward - ESS DMSC
+
+## Viewing
+The presentation can be found online at [http://spinw.org/ESS2022](http://spinw.org/ESS2022)
+
+An up to date pdf can be found at [http://spinw.org/ESS2022/ESS2022.pdf](http://spinw.org/ESS2022/ESS2022.pdf)
+
+The deployment status is [![Build Status](https://github.com/SpinW/ESS2022/actions/workflows/pdfgen.yml/badge.svg)](https://github.com/SpinW/Tartu2021/actions/workflows/pdfgen.yml)
